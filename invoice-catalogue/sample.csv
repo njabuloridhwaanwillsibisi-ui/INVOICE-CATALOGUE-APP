@@ -1,0 +1,9 @@
+Stock Code,Description,Qty,Unit Cost,Sell Incl,Supplier,Barcode
+10001,"Coca-Cola 330ml Can, 24 pack",12,25.50,32.99,Coca-Cola Beverages,6001065000012
+10002,Rooibos Tea 80s,6,18.00,23.99,Ceylon Tea Co,6001234000021
+10003,"Lemon Cream Biscuits 200g",40,7.10,10.99,Bakers,6001234000038
+10004,"Handy Andy Cleaner 750ml",-3,19.80,27.49,Unilever,6001234000045
+10005,Frozen Chicken Strips 1kg,8,54.00,74.99,Rainbow,6001234000052
+10006,"Sparkling Water ""Crisp"" 500ml",24,6.20,9.49,Aqua SA,6001234000069
+10007,Oat Crunch Biscuits 150g,0,6.80,9.99,Bakers,6001234000076
+10008,Dishwashing Liquid 1L,15,16.50,22.99,Sunlight,6001234000083
